@@ -1,1 +1,1 @@
-<img src="./github.png" alt="Manal Bafaraj — Full-Stack Software Engineer" width="100%">
+<img src="./github-header.png" alt="Manal Bafaraj" width="100%">
